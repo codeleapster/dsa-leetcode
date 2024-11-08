@@ -1,4 +1,3 @@
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -23,7 +22,13 @@ class Leetcode1071Test {
 
     @ParameterizedTest
     @MethodSource("inputsAndResults")
-    void testcase(String str1, String str2, String expected) {
-        assertEquals(expected, new Leetcode1071().gcdOfStrings(str1, str2));
+    void testApproachOne(String str1, String str2, String expected) {
+        assertEquals(expected, new Leetcode1071().approachOne(str1, str2));
+    }
+
+    @ParameterizedTest
+    @MethodSource("inputsAndResults")
+    void testApproachTwo(String str1, String str2, String expected) {
+        assertEquals(expected, new Leetcode1071().approachTwo(str1, str2));
     }
 }

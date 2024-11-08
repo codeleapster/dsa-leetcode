@@ -5,9 +5,6 @@ public class Leetcode1768 {
 
     /**
      * Approach one - Using two pointers technique
-     * @param word1
-     * @param word2
-     * @return
      */
     public String approachOne(String word1, String word2) {
         int m = word1.length();
@@ -29,9 +26,6 @@ public class Leetcode1768 {
 
     /**
      * Approach Two - Using one pointer technique
-     * @param word1
-     * @param word2
-     * @return
      */
     public String approachTwo(String word1, String word2) {
         int m = word1.length();
