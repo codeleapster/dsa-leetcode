@@ -1,7 +1,7 @@
 /**
  * <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">1071. Greatest Common Divisor of Strings</a>
  */
-public class Leetcode1071 {
+public class LeetCode1071 {
     public String approachOne(String str1, String str2) {
         String base = str1.length() < str2.length() ? str1 : str2;
 

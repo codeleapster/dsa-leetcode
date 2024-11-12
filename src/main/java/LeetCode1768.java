@@ -1,7 +1,7 @@
 /**
  * <a href="https://leetcode.com/problems/merge-strings-alternately">1768. Merge Strings Alternately</a>
  */
-public class Leetcode1768 {
+public class LeetCode1768 {
 
     /**
      * Approach one - Using two pointers technique

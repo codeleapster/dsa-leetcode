@@ -1,4 +1,4 @@
-public class Leetcode0283 {
+public class LeetCode0283 {
 
     public void approachOne(int[] nums) {
         int pos = 0;

@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-class Leetcode0001Test {
+class LeetCode0001Test {
 
     public static Stream<Arguments> inputsAndResults() {
         return Stream.of(
@@ -22,18 +22,18 @@ class Leetcode0001Test {
     @ParameterizedTest
     @MethodSource("inputsAndResults")
     void approachOne(int[] nums, int target, int[] expected) {
-        assertArrayEquals(expected, new Leetcode0001().approachOne(nums, target));
+        assertArrayEquals(expected, new LeetCode0001().approachOne(nums, target));
     }
 
     @ParameterizedTest
     @MethodSource("inputsAndResults")
     void approachTwo(int[] nums, int target, int[] expected) {
-        assertArrayEquals(expected, new Leetcode0001().approachTwo(nums, target));
+        assertArrayEquals(expected, new LeetCode0001().approachTwo(nums, target));
     }
 
     @ParameterizedTest
     @MethodSource("inputsAndResults")
     void approachThree(int[] nums, int target, int[] expected) {
-        assertArrayEquals(expected, new Leetcode0001().approachThree(nums, target));
+        assertArrayEquals(expected, new LeetCode0001().approachThree(nums, target));
     }
 }
