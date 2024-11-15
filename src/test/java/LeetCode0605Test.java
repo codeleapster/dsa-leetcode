@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class LeetCode605Test {
+class LeetCode0605Test {
 
     public static Stream<Arguments> inputsAndResults() {
         return Stream.of(
@@ -21,6 +21,6 @@ class LeetCode605Test {
     @ParameterizedTest
     @MethodSource("inputsAndResults")
     void canPlaceFlowers(int[] flowerBed, int n, boolean expected) {
-        assertEquals(expected, new LeetCode605().canPlaceFlowers(flowerBed, n));
+        assertEquals(expected, new LeetCode0605().canPlaceFlowers(flowerBed, n));
     }
 }

@@ -1,4 +1,4 @@
-public class LeetCode605 {
+public class LeetCode0605 {
 
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;
