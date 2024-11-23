@@ -33,19 +33,19 @@
 ## Stack
 
 ## Queue
--[ ] [993. Number of Recent Calls](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [993. Number of Recent Calls](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Linked List
--[ ] [206. Reverse Linked List](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [206. Reverse Linked List](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Binary Tree - DFS
--[ ] [104. Maximum Depth of Binary Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
--[ ] [872. Leaf-Similar Trees](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [104. Maximum Depth of Binary Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [872. Leaf-Similar Trees](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Binary Tree - BFS
 
 ## Binary Search Tree
--[ ] [700. Search in a Binary Search Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [700. Search in a Binary Search Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Graphs - DFS
 - [x] [841. Keys and Rooms](src/main/java/LeetCode0841.java) ![](https://img.shields.io/badge/Medium-orange) ![](https://img.shields.io/badge/Graph-grey) ![](https://img.shields.io/badge/DFS-grey) ![](https://img.shields.io/badge/BFS-grey) 
@@ -56,20 +56,20 @@
 ## Heap / Priority Queue
 
 ## Binary Search
--[ ] [374. Guess Number Higher or Lower](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [374. Guess Number Higher or Lower](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Backtracking
 
 ## DP - 1D
--[ ] [1137. N-th Tribonacci Number](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
--[ ] [746. Min Cost Climbing Stairs](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [1137. N-th Tribonacci Number](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [746. Min Cost Climbing Stairs](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 - 
 ## DP - Multidimensional
 
 ## Bit Manipulation
--[ ] [338. Counting Bits](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
--[ ] [136. Single Number](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
-- 
+- [ ] [338. Counting Bits](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [ ] [136. Single Number](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+
 ## Trie
 
 ## Intervals
