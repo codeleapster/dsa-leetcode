@@ -1,4 +1,4 @@
-# LeetCode 75 
+# LeetCode
 
 ## Graphs
 
