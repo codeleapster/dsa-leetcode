@@ -6,19 +6,20 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class LeetCode1732Test {
+class LeetCode2825Test {
 
     public static Stream<Arguments> inputsAndResults() {
         return Stream.of(
-                Arguments.of(new int[]{-5,1,5,0,-7}, 1),
-                Arguments.of(new int[]{-4,-3,-2,-1,4,3,2}, 0)
+                Arguments.of("abc", "ad", true),
+                Arguments.of("zc", "ad", true),
+                Arguments.of("ab", "d", false),
+                Arguments.of("zbcscce", "adcf", true)
         );
     }
 
-
     @ParameterizedTest
     @MethodSource("inputsAndResults")
-    void largestAltitude(int[] nums, int expected) {
-        assertEquals(expected, new LeetCode1732().largestAltitude(nums));
+    void canMakeSubsequence(String s1, String s2, boolean expected) {
+        assertEquals(expected, new LeetCode2825().canMakeSubsequence(s1, s2));
     }
 }

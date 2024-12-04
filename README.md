@@ -37,25 +37,25 @@
 - [x] [1207. Unique Number of Occurrences](src/main/java/LeetCode1207.java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Stack
+- [x] [2390. Removing Stars from a String](src/main/java/LeetCode2390.java) ![](https://img.shields.io/badge/Medium-orange)
 
 ## Queue
-
-- [ ] [993. Number of Recent Calls](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [993. Number of Recent Calls](src/main/java/LeetCode0993.java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Linked List
 
-- [ ] [206. Reverse Linked List](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [206. Reverse Linked List](src/main/java/LeetCode0206.java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Binary Tree - DFS
 
-- [ ] [104. Maximum Depth of Binary Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
-- [ ] [872. Leaf-Similar Trees](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [104. Maximum Depth of Binary Tree](src/main/java/LeetCode0104.java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [872. Leaf-Similar Trees](src/main/java/LeetCode0872.java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Binary Tree - BFS
 
 ## Binary Search Tree
 
-- [ ] [700. Search in a Binary Search Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [700. Search in a Binary Search Tree](src/main/java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Graphs - DFS
 
@@ -65,6 +65,7 @@
 ## Graphs - BFS
 
 ## Heap / Priority Queue
+- [x] [215. Kth Largest element in an Array](src/main/java/LeetCode0215.java) ![](https://img.shields.io/badge/Medium-orange)
 
 ## Binary Search
 
@@ -94,6 +95,9 @@
 # Others
 
 - [x] [1. Two Sum](src/main/java/LeetCode0001.java) ![](https://img.shields.io/badge/Easy-Green)
-- [x] [200. Numver of Islands](src/main/java/LeetCode0200.java) ![](https://img.shields.io/badge/Medium-orange)
+- [x] [200. Number of Islands](src/main/java/LeetCode0200.java) ![](https://img.shields.io/badge/Medium-orange)
 - [x] [997. Find the town judge](src/main/java/LeetCode0997.java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [1346. Check if N and its Double Exist](src/main/java/LeetCode1346.java) ![](https://img.shields.io/badge/Easy-Green)
 - [x] [1861. Rotating the box](src/main/java/LeetCode1861.java) ![](https://img.shields.io/badge/Medium-orange)
+- [x] [2109. Adding spaces to a string](src/main/java/LeetCode2109.java) ![](https://img.shields.io/badge/Medium-orange) ![](https://img.shields.io/badge/Two_Pointers-grey) ![](https://img.shields.io/badge/String-grey)
+- [x] [2825. Make String a Subsequence using Cyclic Increments](src/main/java/LeetCode2825.java) ![](https://img.shields.io/badge/Medium-orange) ![](https://img.shields.io/badge/Two_Pointers-grey) ![](https://img.shields.io/badge/String-grey)

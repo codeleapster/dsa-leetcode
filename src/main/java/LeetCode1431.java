@@ -1,7 +1,5 @@
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class LeetCode1431 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
