@@ -40,7 +40,7 @@
 - [x] [2390. Removing Stars from a String](src/main/java/LeetCode2390.java) ![](https://img.shields.io/badge/Medium-orange)
 
 ## Queue
-- [x] [993. Number of Recent Calls](src/main/java/LeetCode0993.java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [933. Number of Recent Calls](src/main/java/LeetCode0933.java) ![](https://img.shields.io/badge/Easy-Green)
 
 ## Linked List
 
@@ -98,6 +98,7 @@
 - [x] [200. Number of Islands](src/main/java/LeetCode0200.java) ![](https://img.shields.io/badge/Medium-orange)
 - [x] [997. Find the town judge](src/main/java/LeetCode0997.java) ![](https://img.shields.io/badge/Easy-Green)
 - [x] [1346. Check if N and its Double Exist](src/main/java/LeetCode1346.java) ![](https://img.shields.io/badge/Easy-Green)
+- [x] [1455. Check if a word occurs as a prefix of any word in a sentence](src/main/java/LeetCode1455.java) ![](https://img.shields.io/badge/Easy-Green)
 - [x] [1861. Rotating the box](src/main/java/LeetCode1861.java) ![](https://img.shields.io/badge/Medium-orange)
 - [x] [2109. Adding spaces to a string](src/main/java/LeetCode2109.java) ![](https://img.shields.io/badge/Medium-orange) ![](https://img.shields.io/badge/Two_Pointers-grey) ![](https://img.shields.io/badge/String-grey)
 - [x] [2825. Make String a Subsequence using Cyclic Increments](src/main/java/LeetCode2825.java) ![](https://img.shields.io/badge/Medium-orange) ![](https://img.shields.io/badge/Two_Pointers-grey) ![](https://img.shields.io/badge/String-grey)

@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class LeetCode0993Test {
+class LeetCode0933Test {
 
     @Test
     void recentCounter() {
